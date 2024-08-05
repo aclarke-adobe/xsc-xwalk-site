@@ -295,6 +295,7 @@ header nav .nav-sections > ul > li[aria-expanded="true"] > ul {
   columns: 1;
   background: rgb(255 255 255 / 95%);
   color: black;
+  z-index: 9999;
 }
 
 header .header-topbar {
