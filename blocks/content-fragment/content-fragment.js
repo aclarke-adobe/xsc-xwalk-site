@@ -1,5 +1,5 @@
 // put your AEM publish address here
-// this fixes having to manually change the AEM host here
+// this fixes having to manually change the AEM host here making a change
 const AEM_HOST = checkDomain()
 
 function checkDomain(){
